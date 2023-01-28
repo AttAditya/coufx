@@ -1,0 +1,7 @@
+[ 28/01/2023 - 07:07:16 PM ]: [Errno 17] File exists: 'data//A'
+[ 28/01/2023 - 07:12:27 PM ]: sequence item 1: expected str instance, float found
+[ 28/01/2023 - 07:25:21 PM ]: 'symptons'
+[ 28/01/2023 - 07:25:44 PM ]: 'symptons'
+[ 28/01/2023 - 07:26:02 PM ]: 'symptons'
+[ 28/01/2023 - 07:27:30 PM ]: 'symptons'
+[ 28/01/2023 - 07:37:50 PM ]: 'A1(SCORE:0.6053000000000001)'
